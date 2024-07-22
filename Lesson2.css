@@ -1,0 +1,40 @@
+.main{
+    margin-top: 100px;
+}
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.camp{
+    width: 400px;
+    line-height: 24px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn{
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 25px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: 1px solid #dfe1e5;
+    border-radius: 5px;
+    background-color: #dfe1e5;
+    font-size: 14px;
+}
